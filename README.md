@@ -7,7 +7,8 @@ One of the things I love the most is being able to jump into a team and move it 
 I keep learning new techniques and yes, deep down I am a die-hard gamer :)
 
 
-Technical Skills
+Technical Skills:
+
 Strong: React, Redux, Hooks, GraohQL, ES6, Express, PostgreSQL, Firebase, Sass, Webpack, Git.
 
 Knowledgeable: Python, MongoDB, Gulp, CSS in JS, Jest
