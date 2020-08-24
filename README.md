@@ -1,6 +1,6 @@
-### Hi there 👋 Mostafa raslan
+### Hi there,I'm Mostafa 👋 
 
-I'm a Full-Stack Software Engineer with 3+ years in Web development.
+| 💻 Full Stack React Developer 
 
 One of the things I love the most is being able to jump into a team and move it forward to make it reach its maximum potential. It's a thing I excelled at doing continuously.
 
