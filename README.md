@@ -1,6 +1,6 @@
 ### Hi there,I'm Mostafa 👋 
 
-| 💻 Full Stack React Developer with 3+ years in Web development.
+💻 Full Stack React Developer with 3+ years in Web development.
 
 One of the things I love the most is being able to jump into a team and move it forward to make it reach its maximum potential. It's a thing I excelled at doing continuously.
 
