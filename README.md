@@ -9,7 +9,7 @@ I keep learning new techniques and yes, deep down I am a die-hard gamer :)
 
 Technical Skills:
 
-Strong: React, Redux, Hooks, GraohQL, ES6, Express, PostgreSQL, Firebase, Sass, Webpack, Git.
+Strong: React, Redux, Hooks, GraphQL, ES6, Express, PostgreSQL, Firebase, Sass, Webpack, Git.
 
 Knowledgeable: Python, MongoDB, Gulp, CSS in JS, Jest
 <!--
