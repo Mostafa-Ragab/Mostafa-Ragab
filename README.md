@@ -1,17 +1,20 @@
 ### Hi there,I'm Mostafa 👋 
 
-💻 Full Stack React Developer with 3+ years in Web development.
-
-One of the things I love the most is being able to jump into a team and move it forward to make it reach its maximum potential. It's a thing I excelled at doing continuously.
+As a web developer with over 3 years of experience in Frontend Development,
+I am now specializing in UX, Frontend & Backend Development, React.JS, and Software Architecture.
+In my life career, I was responsible for developing new ideas and transforming them into products, I am confident that I can actively contribute and develop your business.
 
 I keep learning new techniques and yes, deep down I am a die-hard gamer :)
 
 
-Technical Skills:
+Technical Skills
+Strong: React, Redux, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, Sass, Webpack, Git
 
-Strong: React, Redux, Hooks, GraphQL, ES6, Express, PostgreSQL, Firebase, Sass, Webpack, Git.
+Knowledgeable: Python, Redux-Saga, GraphQL, Gulp, CSS in JS, Jest
 
-Knowledgeable: Python, MongoDB, Gulp, CSS in JS, Jest
+
+I look forward to discussing how we can work together.
+Should you have any questions please do not hesitate to contact me.
 <!--
 **Mostafa-Ragab/Mostafa-Ragab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
