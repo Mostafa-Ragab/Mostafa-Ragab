@@ -6,7 +6,6 @@ In my life career, I was responsible for developing new ideas and transforming t
 
 I keep learning new techniques and yes, deep down I am a die-hard gamer :)
 
-
 Technical Skills
 Strong: React, Redux, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, Sass, Webpack, Git
 
