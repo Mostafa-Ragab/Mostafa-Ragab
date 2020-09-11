@@ -4,12 +4,13 @@ As a web developer with over 3 years of experience in Frontend Development,
 I am now specializing in UX, Frontend & Backend Development, React.JS, and Software Architecture.
 In my life career, I was responsible for developing new ideas and transforming them into products, I am confident that I can actively contribute and develop your business.
 
+
 I keep learning new techniques and yes, deep down I am a die-hard gamer :)
 
 
 
 Technical Skills
-Strong: React, Redux, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, Sass, Webpack, Git
+Proficient:React, Redux, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, Sass, Webpack, Git
 
 Knowledgeable: Python, Redux-Saga, GraphQL, Gulp, CSS in JS, Jest
 
