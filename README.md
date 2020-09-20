@@ -12,7 +12,6 @@ Proficient:React, Redux, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, Sas
 
 Familiar: Python, Redux-Saga, GraphQL, Gulp, CSS in JS, Jest
 
-
 I look forward to discussing how we can work together.
 Should you have any questions please do not hesitate to contact me.
 
