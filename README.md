@@ -7,7 +7,6 @@ In my life career, I was responsible for developing new ideas and transforming t
 I keep learning new techniques and yes, deep down I am a die-hard gamer :)
 
 
-
 Technical Skills
 Proficient:React, Redux, Redux-Saga, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, scss,CSS in JS, Webpack, Git
 
