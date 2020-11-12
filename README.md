@@ -9,7 +9,7 @@ I keep learning new techniques and yes, deep down I am a die-hard gamer :)
 
 
 Technical Skills
-Proficient:React, Redux, Redux-Saga, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, scss,CSS in JS, Webpack, Git
+Proficient: React, Redux, Redux-Saga, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, scss,CSS in JS, Webpack, Git
 
 Familiar: Python,Jest
 
