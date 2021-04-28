@@ -6,7 +6,7 @@ In my life career, I was responsible for developing new ideas and transforming t
 
 
 Technical Skills
-Proficient: React, Redux, Redux-Saga, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, scss,CSS in JS, Webpack, Git
+Proficient: React, Redux, Redux-Saga, GraphQL, Apollo, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, scss,CSS in JS, Webpack, Git
 
 Familiar: Python,Jest
 
