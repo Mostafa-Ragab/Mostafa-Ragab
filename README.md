@@ -13,5 +13,4 @@ Familiar: Python,Jest
 
 I look forward to discussing how we can work together.
 Should you have any questions please do not hesitate to contact me.
-
 Portfolio: https://mustafa-raslan.netlify.app/
