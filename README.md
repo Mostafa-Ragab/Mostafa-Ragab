@@ -5,7 +5,6 @@ As a Full-Stack Engineer, I am now specializing in UI, Frontend & Backend Develo
 In my life career, I was responsible for developing new ideas and transforming them into products, I am confident that I can actively contribute and develop your business.
 
 
-
 Technical Skills
 Proficient: React, Redux, Redux-Saga, GraphQL, Apollo, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, scss,CSS in JS, Webpack, Git
 
