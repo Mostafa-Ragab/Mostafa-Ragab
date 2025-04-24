@@ -1,16 +1,37 @@
-### Hi there, 👋 
+# 👋 Hi there, I'm Mostafa
 
+Welcome to my GitHub!
 
-As a Full-Stack Engineer, I am now specializing in UI, Frontend & Backend Development, React.JS, and Software Architecture.
-In my life career, I was responsible for developing new ideas and transforming them into products, I am confident that I can actively contribute and develop your business.
+I'm a passionate **Front-End Engineer** with over **7 years of professional experience** in crafting modern web applications. My journey has taken me through roles in development, architecture, and technical leadership — helping teams and clients across **education, retail, and e-commerce** domains bring their ideas to life.
 
+---
 
-Technical Skills
-Proficient: React,Nextjs, React-Native, Redux, Redux-Saga, GraphQL, Apollo, Hooks, ES6, Express, PostgreSQL, Firebase, MongoDB, scss,CSS in JS, Webpack, Git , Jest
+## 🚀 What I Do
 
-Familiar: Python, visual basic
+- 🧱 Architect and build scalable UI systems with **React**, **TypeScript**, and **Tailwind CSS**
+- 📐 Apply **SOLID principles** and **object-oriented design** to write clean, maintainable code
+- 🧠 Prioritize client vision and translate it into exceptional user-facing features
+- 🧪 Advocate for end-users by constantly improving the **user experience** and **accessibility**
+- 💬 Collaborate closely with cross-functional teams to ensure smooth, impactful deliveries
 
+---
 
+## 🔧 Tech Stack
 
-I look forward to discussing how we can work together.
-Should you have any questions please do not hesitate to contact me.
+- **Languages**: TypeScript, JavaScript (ES6+), HTML5, CSS3/SASS
+- **Frameworks & Tools**: React, Next.js, Tailwind CSS, Redux/RTK, React Query, Vite, Jest
+- **Practices**: Component-driven design, pixel-perfect implementation, Agile, CI/CD
+- **DevOps & Infra**: Docker, GitHub Actions, Vercel/Netlify, Git
+
+---
+
+## 📫 Get in Touch
+
+I'm always open to new opportunities, interesting collaborations, or simply a good tech chat.
+
+Feel free to [connect with me](mailto:mostafaragab373@gmail.com) or reach out if you have any questions or ideas you’d like to discuss.
+
+---
+
+Thanks for visiting! 😊  
+Let’s build something amazing together.
