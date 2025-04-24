@@ -8,7 +8,7 @@ I'm a passionate **Front-End Engineer** with over **7 years of professional expe
 
 ## 🚀 What I Do
 
-- 🧱 Architect and build scalable UI systems with **React**, **TypeScript**, and **Tailwind CSS**
+- 🧱 Architect and build scalable UI systems with **React**,**Next**,  **TypeScript**, and **Tailwind CSS**
 - 📐 Apply **SOLID principles** and **object-oriented design** to write clean, maintainable code
 - 🧠 Prioritize client vision and translate it into exceptional user-facing features
 - 🧪 Advocate for end-users by constantly improving the **user experience** and **accessibility**
