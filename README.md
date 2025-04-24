@@ -19,7 +19,7 @@ I'm a passionate **Front-End Engineer** with over **7 years of professional expe
 ## 🔧 Tech Stack
 
 - **Languages**: TypeScript, JavaScript (ES6+), HTML5, CSS3/SASS
-- **Frameworks & Tools**: React, Next.js, Tailwind CSS, Redux/RTK, React Query, Vite, Jest
+- **Frameworks & Tools**: React, Next.js, React-Native, Nodejs, Express, Tailwind CSS, Redux/RTK, Redux, Zustand,React Query, Vite, Jest
 - **Practices**: Component-driven design, pixel-perfect implementation, Agile, CI/CD
 - **DevOps & Infra**: Docker, GitHub Actions, Vercel/Netlify, Git
 
