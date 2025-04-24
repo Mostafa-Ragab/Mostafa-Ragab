@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mostafa
+# 👋 Hi there, I'm Mustafa
 
 Welcome to my GitHub!
 
